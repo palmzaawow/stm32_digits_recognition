@@ -6,5 +6,6 @@
 - เข้าไปแปลง เพิ่ม input และ output ตามที่ setup model ไว้
 - รันโค้ดทดสอบได้เลย
 
+list 
 - Uart 3 connect st-link
 - input image from gui.py (Humen draw)
